@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dhananjay
 
-💻 I'm a Computer Science Engineering student at NGP Patna-13  
+💻 I'm a Computer Science Engineering student
 🚀 MERN Stack Developer | Web Dev Enthusiast  
 🎥 Creator at [Dhananjay Coders](https://www.youtube.com/@DhananjayCoders)
 
