@@ -18,7 +18,6 @@ I love building clean and functional web apps, and I share my learnings and proj
 - Full-stack development with MERN  
 - Advanced React and backend APIs  
 - Building real-world projects from scratch  
-- Web development via Love Babbar’s Dot Batch
 
 ---
 
