@@ -2,7 +2,6 @@
 
 💻 I'm a Computer Science Engineering student
 🚀 MERN Stack Developer | Web Dev Enthusiast  
-🎥 Creator at [Dhananjay Coders](https://www.youtube.com/@DhananjayCoders)
 
 ---
 
@@ -39,10 +38,7 @@ I love building clean and functional web apps, and I share my learnings and proj
 
 ### 📫 How to reach me:
 
-- ✉️ Email: [Dhananjaymukhiya2005@gmail.com](mailto:Dhananjaymukhiya2005@gmail.com)  
-- 📱 Instagram: [@dhananjaycoders](https://www.instagram.com/dhananjaycoders/)  
-- 🌐 Website: [DhananjayCoders.com](https://dhananjaycoders.com)  
-- 🔗 YouTube: [Dhananjay Coders](https://www.youtube.com/@DhananjayCoders)
+- ✉️ Email: [Dhananjaymukhiya2005@gmail.com](mailto:Dhananjaymukhiya2005@gmail.com)
 
 ---
 
